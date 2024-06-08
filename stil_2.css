@@ -1,0 +1,62 @@
+body {
+  background-image: url("slike_videi_zvuk/pozadina.png");
+}
+
+h1 {
+
+  width: 50%;
+  color: yellow;
+  margin-left: 20px;
+  background-color:brown
+}
+
+p {
+
+  width: 50%;
+  color: white;
+  background-color:brown
+  }
+
+  h2 {
+
+  width: 50%;
+    color: yellow;
+    background-color:brown
+
+    }
+
+    h3 {
+  width: 50%;
+      color: yellow;
+      background-color:brown
+      }
+
+      h4 {
+  width: 50%;
+        color: yellow;
+        background-color:brown
+        }
+
+        blockquote {
+  width: 50%;
+          color: white;
+          background-color:brown
+          }
+
+          ol {
+  width: 50%;
+            color: white;
+            background-color:brown
+            }
+
+            ul {
+  width: 50%;
+              color: white;
+              background-color:brown
+              }
+
+              pl {
+  width: 50%;
+                color: white;
+                background-color:brown
+                }
